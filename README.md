@@ -2,9 +2,9 @@
 
 IA aplicada al marketing de pequeños negocios. Sitio estático (HTML/CSS puro), sin build ni dependencias.
 
-## Progreso de contenido: 11 / 30 artículos publicados
+## Progreso de contenido: 20 / 30 artículos publicados
 
-Meta de 30 artículos porque es el mínimo orientativo para que AdSense considere la solicitud. Los 19 restantes están mapeados en `index.html` (marcados "Próximamente") — se van escribiendo con el prompt de la sección 13 del plan, a un ritmo sostenido (no todos de golpe: publicar en bloque grande y sin cuidado es justo lo que penaliza el sistema de contenido útil de Google).
+Meta ajustada: no hay un mínimo oficial de Google, pero 15-30 artículos de calidad es el rango orientativo que maneja la comunidad. Con 20 artículos de 1,000+ palabras cada uno ya se puede aplicar a AdSense. Los 10 restantes están mapeados en `index.html` (marcados "Próximamente") — se pueden seguir publicando en paralelo mientras se espera la revisión de AdSense.
 
 ## Estructura
 
