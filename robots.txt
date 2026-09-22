@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://marketia.com/sitemap.xml
+Sitemap: https://iapracticaparanegocios.com/sitemap.xml

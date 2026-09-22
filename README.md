@@ -29,7 +29,7 @@ assets/styles.css
    - Carpeta de salida: `/` (raíz)
 3. Compra el dominio en Cloudflare Registrar (o el que hayas elegido) y conéctalo en el proyecto de Pages, pestaña "Custom domains".
 4. Antes de publicar de verdad:
-   - Reemplaza `marketia.com` en todos los `<link rel="canonical">` y en `sitemap.xml`/`robots.txt` por tu dominio real si es distinto.
+   - Reemplaza `iapracticaparanegocios.com` en todos los `<link rel="canonical">` y en `sitemap.xml`/`robots.txt` por tu dominio real si es distinto.
    - Reemplaza el correo de `contacto.html`.
 5. Da de alta el dominio en Google Search Console y envía `sitemap.xml` (registro TXT vía Cloudflare DNS — ver sección 19).
 
