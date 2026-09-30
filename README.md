@@ -33,12 +33,12 @@ Para sustituirlas por ilustraciones de Gemini:
   `ia-para-atencion-al-cliente-y-ventas.html` — las 4 páginas hub
 - `articulos/` — 26 artículos (20 ampliados + 6 nuevos)
 - `recursos/prompts-ia-para-negocios.pdf` — descargable con 60 prompts
-- `assets/` — estilos, script de cookies, logo, favicon e imágenes (`img/` y `img/thumb/`)
+- `assets/` — estilos, logo, favicon e imágenes (`img/` y `img/thumb/`)
 - `sitemap.xml` (con `lastmod` e imágenes), `robots.txt`, `ads.txt`, `CNAME`, `404.html`
 
 ## Mantenimiento
 
 - **Precios:** las tablas de precios indican «revisado en septiembre de 2026». Revísalas cada mes
   y actualiza la fecha «Actualizado» del artículo y el `<lastmod>` del sitemap cuando cambies algo.
-- **Cookies y AdSense:** AdSense solo se carga tras pulsar «Aceptar» (ver `assets/cookie-consent.js`).
-  El enlace «Configurar cookies» del pie permite cambiar la elección.
+- **Cookies y AdSense:** AdSense se carga en el `<head>` de todas las páginas y el consentimiento lo gestiona la CMP de Google
+  (mensaje RGPD publicado en AdSense > Privacidad y mensajes). «Configurar cookies» del pie reabre ese mensaje.
